@@ -7,6 +7,8 @@ Hi I'm @ibeshesumne
 - [Hong Kong retail sales](https://financetools-xat558fdsaj6porl7mdmcw.streamlit.app/)
 - [User input stock performance](https://financetools-jzfnbvr6gbwjug8hnnyopj.streamlit.app/)
 - [HK residential prices](https://financetools-nt3pxvcynltejwvajnswky.streamlit.app/)
+- [Annual returns for single stocks vs benchmark](https://financetools-twskpdqp6n3bzmzkmuc9qv.streamlit.app/)
+- [Selected industry growth performance](https://financetools-jvnd4yfcvlvr9mmxsejpba.streamlit.app/)
 
 
 <!---
