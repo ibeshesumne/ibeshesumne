@@ -4,9 +4,9 @@ Hi I'm @ibeshesumne
 - 💞️ My skills are limited and so I’m not sure can add value to other's projects but welcome the opportunity to learn from best practices and welcome criticism and advice to improve skills and coding.  
 - 📫 I am best reached through email.
 - Streamlit apps produced:
-- https://financetools-xat558fdsaj6porl7mdmcw.streamlit.app/
-- https://financetools-jzfnbvr6gbwjug8hnnyopj.streamlit.app/
-- https://financetools-nt3pxvcynltejwvajnswky.streamlit.app/
+- [Hong Kong retail sales](https://financetools-xat558fdsaj6porl7mdmcw.streamlit.app/)
+- [User input stock performance](https://financetools-jzfnbvr6gbwjug8hnnyopj.streamlit.app/)
+- [HK residential prices](https://financetools-nt3pxvcynltejwvajnswky.streamlit.app/)
 
 
 <!---
