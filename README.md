@@ -12,6 +12,8 @@ Hi I'm @ibeshesumne
 - [Hong Kong retail sales monthly](https://financetools-izxcu7aecnpgbqhvdemvev.streamlit.app/)
 - [HK residential prices - api (up to 2022-07)](https://financetools-nt3pxvcynltejwvajnswky.streamlit.app/)
 - [HK residential prices - existing developments](https://ibeshesumne-financetoo-res-prices-hist5-xls-streamlit-v1-gis47w.streamlit.app/)
+- Fun apps:
+- [Next Citybus times](https://financetools-enquehshc2dfmvmrm8nn5l.streamlit.app/)
 
 <!---
 ibeshesumne/ibeshesumne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
