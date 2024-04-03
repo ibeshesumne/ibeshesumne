@@ -9,10 +9,12 @@ Some finance apps (hosted courtesy of Streamlit and Posit) :
 - [User input stock performance](https://financetools-jzfnbvr6gbwjug8hnnyopj.streamlit.app/)
 - [Annual returns for single stocks vs benchmark](https://financetools-twskpdqp6n3bzmzkmuc9qv.streamlit.app/)
 - [Selected industry growth performance](https://financetools-jvnd4yfcvlvr9mmxsejpba.streamlit.app/)
+
 Some economic apps:
 - [Hong Kong retail sales monthly](https://financetools-izxcu7aecnpgbqhvdemvev.streamlit.app/)
 - [HK residential prices - api (up to 2022-07)](https://financetools-nt3pxvcynltejwvajnswky.streamlit.app/)
 - [HK residential prices - existing developments](https://ibeshesumne-financetoo-res-prices-hist5-xls-streamlit-v1-gis47w.streamlit.app/)
+
 Fun apps:
 - [Next Citybus times](https://financetools-enquehshc2dfmvmrm8nn5l.streamlit.app/)
 
