@@ -5,3 +5,5 @@ pandas
 matplotlib
 requests
 lxml
+concurrent.futures
+parse
