@@ -16,6 +16,7 @@ Some economic apps:
 - [HK residential prices - existing developments](https://ibeshesumne-financetoo-res-prices-hist5-xls-streamlit-v1-gis47w.streamlit.app/)
 
 Fun apps:
+- [Download my Spot to Android](https://github.com/ibeshesumne/learning_script/blob/b05970ac89156f2fdc9426154ccb9fa097e9886a/app-debug.apk)
 - [HK address lookup](https://financetools-emddt8zsffvnfj2zaukm6j.streamlit.app/)
 - [Next MTR/Airport Express](https://financetools-nixhi2eciagbnpetfueldd.streamlit.app/)
 - [Next Citybus times](https://financetools-enquehshc2dfmvmrm8nn5l.streamlit.app/)
