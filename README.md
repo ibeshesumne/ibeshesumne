@@ -19,7 +19,7 @@ Fun apps:
 - [HK address lookup](https://financetools-emddt8zsffvnfj2zaukm6j.streamlit.app/)
 - [Next MTR/Airport Express](https://financetools-nixhi2eciagbnpetfueldd.streamlit.app/)
 - [Next Citybus times](https://financetools-enquehshc2dfmvmrm8nn5l.streamlit.app/)
-- [get gps coordinate on Android - testing]([https://financetools-bkujl8rv84pjra2mwvdh2c.streamlit.app/](https://github.com/ibeshesumne/learning_script/blob/0a52d24d55f59298932c2da1dbfdbc24c3a78d25/get_gps.html))
+- [get gps coordinate on Android - testing](https://github.com/ibeshesumne/learning_script/blob/0a52d24d55f59298932c2da1dbfdbc24c3a78d25/get_gps.html)
 - [Nearest Citybus stop to me](https://financetools-4v62cfvrkmefaaosn4corw.streamlit.app/)
 
 <!---
