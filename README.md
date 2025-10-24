@@ -7,7 +7,7 @@ Hi I'm @ibeshesumne
 Some finance apps (hosted courtesy of Streamlit and Posit) :
 - [Asset price snapshot](https://u34w42-ml-china.shinyapps.io/mktperform/)
 - [Life chronology](https://lifetools-abvvntnm5qcafsm5a34dmp.streamlit.app/)
-- [From many to one: merge PDF](https://lifetools-nojclehoxftnk3f2eg4rr3.streamlit.app/)
+- [From many to one: merge PDF](https://lifetools-zpfqretkrv36wtfviucxdk.streamlit.app/)
 - [User input stock performance](https://financetools-jzfnbvr6gbwjug8hnnyopj.streamlit.app/)
 - [Annual returns for single stocks vs benchmark](https://financetools-twskpdqp6n3bzmzkmuc9qv.streamlit.app/)
 - [Selected industry growth performance](https://financetools-jvnd4yfcvlvr9mmxsejpba.streamlit.app/)
