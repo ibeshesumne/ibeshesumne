@@ -11,7 +11,7 @@ Some apps (hosted courtesy of Streamlit and Posit) :
 - [Past hour rainfall - Hong Kong](https://hkrainfallmappasthour.netlify.app/)
 
 Some economic apps:
-- [Hong Kong retail sales monthly](https://financetools-izxcu7aecnpgbqhvdemvev.streamlit.app/)
+- [Hong Kong retail sales monthly](https://testhk-fhzxfgvempvrm9bhyb5qww.streamlit.app/)
 - [HK residential prices - api (up to 2022-07)](https://financetools-nt3pxvcynltejwvajnswky.streamlit.app/)
 - [HK residential prices - existing developments](https://ibeshesumne-financetoo-res-prices-hist5-xls-streamlit-v1-gis47w.streamlit.app/)
 
