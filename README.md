@@ -16,13 +16,13 @@ Some economic apps:
 - [HK residential prices - existing developments](https://ibeshesumne-financetoo-res-prices-hist5-xls-streamlit-v1-gis47w.streamlit.app/)
 
 Fun apps:
-- [HK address lookup](https://financetools-emddt8zsffvnfj2zaukm6j.streamlit.app/)
 - [Next MTR/Airport Express](https://financetools-nixhi2eciagbnpetfueldd.streamlit.app/)
 - [Next Citybus times](https://financetools-enquehshc2dfmvmrm8nn5l.streamlit.app/)
 - [Nearest Citybus stop to me](https://financetools-4v62cfvrkmefaaosn4corw.streamlit.app/)
 
 
-Finance apps (need updating) 
+Apps that require updates
+- [HK address lookup](https://financetools-emddt8zsffvnfj2zaukm6j.streamlit.app/)
 - [User input stock performance](https://financetools-jzfnbvr6gbwjug8hnnyopj.streamlit.app/)
 - [Annual returns for single stocks vs benchmark](https://financetools-twskpdqp6n3bzmzkmuc9qv.streamlit.app/)
 - [Selected industry growth performance](https://financetools-jvnd4yfcvlvr9mmxsejpba.streamlit.app/)
