@@ -4,13 +4,11 @@ Hi I'm @ibeshesumne
 - 💞️ My skills are limited and so I’m not sure can add value to other's projects but welcome the opportunity to learn from best practices and welcome criticism and advice to improve skills and coding.  
 - 📫 I am best reached through email.
 
-Some finance apps (hosted courtesy of Streamlit and Posit) :
+Some apps (hosted courtesy of Streamlit and Posit) :
 - [Asset price snapshot](https://u34w42-ml-china.shinyapps.io/mktperform/)
 - [Life chronology](https://lifetools-2t2bfzvnbte8paikul6vwe.streamlit.app/)
 - [From many to one: merge PDF](https://lifetools-zpfqretkrv36wtfviucxdk.streamlit.app/)
-- [User input stock performance](https://financetools-jzfnbvr6gbwjug8hnnyopj.streamlit.app/)
-- [Annual returns for single stocks vs benchmark](https://financetools-twskpdqp6n3bzmzkmuc9qv.streamlit.app/)
-- [Selected industry growth performance](https://financetools-jvnd4yfcvlvr9mmxsejpba.streamlit.app/)
+- [Past hour rainfall - Hong Kong](https://hkrainfallmappasthour.netlify.app/)
 
 Some economic apps:
 - [Hong Kong retail sales monthly](https://financetools-izxcu7aecnpgbqhvdemvev.streamlit.app/)
@@ -22,6 +20,12 @@ Fun apps:
 - [Next MTR/Airport Express](https://financetools-nixhi2eciagbnpetfueldd.streamlit.app/)
 - [Next Citybus times](https://financetools-enquehshc2dfmvmrm8nn5l.streamlit.app/)
 - [Nearest Citybus stop to me](https://financetools-4v62cfvrkmefaaosn4corw.streamlit.app/)
+
+
+Finance apps (need updating) 
+- [User input stock performance](https://financetools-jzfnbvr6gbwjug8hnnyopj.streamlit.app/)
+- [Annual returns for single stocks vs benchmark](https://financetools-twskpdqp6n3bzmzkmuc9qv.streamlit.app/)
+- [Selected industry growth performance](https://financetools-jvnd4yfcvlvr9mmxsejpba.streamlit.app/)
 
 <!---
 ibeshesumne/ibeshesumne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
