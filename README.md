@@ -14,7 +14,7 @@ Some economic apps:
 - [Hong Kong retail sales monthly](https://testhk-fhzxfgvempvrm9bhyb5qww.streamlit.app/)
 
 Research - varied topics
-- [Playground](https://playground.mleary.idv.hk/))
+- [Playground](https://playground.mleary.idv.hk/)
 
 Fun apps:
 - [Next MTR/Airport Express](https://financetools-nixhi2eciagbnpetfueldd.streamlit.app/)
