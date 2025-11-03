@@ -12,8 +12,9 @@ Some apps (hosted courtesy of Streamlit and Posit) :
 
 Some economic apps:
 - [Hong Kong retail sales monthly](https://testhk-fhzxfgvempvrm9bhyb5qww.streamlit.app/)
-- [HK residential prices - api (up to 2022-07)](https://financetools-nt3pxvcynltejwvajnswky.streamlit.app/)
-- [HK residential prices - existing developments](https://ibeshesumne-financetoo-res-prices-hist5-xls-streamlit-v1-gis47w.streamlit.app/)
+
+Research - varied topics
+- [Playground](https://playground.mleary.idv.hk/))
 
 Fun apps:
 - [Next MTR/Airport Express](https://financetools-nixhi2eciagbnpetfueldd.streamlit.app/)
