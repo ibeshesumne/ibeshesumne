@@ -17,7 +17,7 @@ Some economic apps:
 
 Fun apps:
 - [Next MTR/Airport Express](https://financetools-nixhi2eciagbnpetfueldd.streamlit.app/)
-- [Next Citybus times](https://financetools-enquehshc2dfmvmrm8nn5l.streamlit.app/)
+- [Next Citybus times](https://hkbus.mleary.idv.hk/)
 - [Nearest Citybus stop to me](https://financetools-4v62cfvrkmefaaosn4corw.streamlit.app/)
 
 
